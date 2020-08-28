@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestAildInOutDemo</string>
+    <string name="btn_add">btn_add</string>
+    <string name="btn_search">btn_search</string>
+    <string name="btn_query">btn_query</string>
+</resources>
